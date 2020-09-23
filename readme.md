@@ -1,4 +1,6 @@
-![Laravel_5_8_DataTables_Server_Side_Processing_using_Ajax](https://user-images.githubusercontent.com/57386598/82797893-f07f0180-9ea1-11ea-8446-785b76dd8630.png)
+![1](https://user-images.githubusercontent.com/57386598/94010465-2db3bb80-fdd0-11ea-83c8-40e4528f835d.png)
+![2](https://user-images.githubusercontent.com/57386598/94010477-31474280-fdd0-11ea-94d8-bd7056e3229f.png)
+![3](https://user-images.githubusercontent.com/57386598/94010487-35736000-fdd0-11ea-9b9b-d63fb32b98d5.png)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
